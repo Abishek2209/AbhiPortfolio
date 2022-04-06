@@ -8,7 +8,7 @@
 }
 
 :root {
-    --font: 'Montserrat', sans-serif;
+    --font:sans-serif;
     --prime-font: 'Work Sans', sans-serif;
     --bg: #1a1c20;
     --main-color: #f9813a;
@@ -72,7 +72,7 @@ img {
 
 /* mains section */
 .main {
-    font-family:sans-serif;
+    
     width: 85%;
     height: 650px;
     margin: 0 auto;
