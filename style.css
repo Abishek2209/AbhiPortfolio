@@ -72,6 +72,7 @@ img {
 
 /* mains section */
 .main {
+    font-family:sans-serif;
     width: 85%;
     height: 650px;
     margin: 0 auto;
@@ -85,7 +86,7 @@ img {
     content: '';
     width: 80%;
     height: 70%;
-    background: #151618;
+    background: blue ;
     position: absolute;
     bottom: 0;
     right: -10%;
