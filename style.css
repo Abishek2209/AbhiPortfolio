@@ -154,6 +154,7 @@ img {
     font-size: 3em;
     margin-bottom: 0.5em;
     position: relative;
+    width:40px;
 }
 
 .about .box_wrap .heading::before {
